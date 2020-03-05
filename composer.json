@@ -1,5 +1,5 @@
 {
-    "name": "asmiarowski/laravel-postgres",
+    "name": "erickcg/laravel-postgres",
     "description": "Eloquent support for postgreSQL fields",
     "keywords": ["laravel", "postgres", "postgreSQL"],
     "license": "MIT",
@@ -20,6 +20,10 @@
         }
     },
     "authors": [
+	{
+            "name": "Erick Castillo",
+            "email": "erick@hagane.io"
+        },
         {
             "name": "Artur Śmiarowski",
             "email": "artur.smiarowski@gmail.com"
